@@ -12,7 +12,7 @@ class Development(Config):
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
     STRING_SESSION = "your session"
     # create a new bot in @botfather and fill the following vales with bottoken
-    TG_BOT_TOKEN = "your token"
+    TG_BOT_TOKEN = "5856053493:AAHpbSwhYWHsTPkyOWnx4QSPqGVn5fsDibE"
     # create a private group and a rose bot to it and type /id and paste that id here (replace that -100 with that group id)
     PRIVATE_GROUP_BOT_API_ID =
     # command handler
